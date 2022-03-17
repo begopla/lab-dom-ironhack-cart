@@ -65,3 +65,12 @@ h2,
 .calculate-total {
   text-align: center;
 }
+.error-input {
+  color: red;
+  border: 1px solid red;
+}
+
+.btn-create{
+  background-color: rgb(204, 204, 204);
+  
+}
